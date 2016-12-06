@@ -1,4 +1,4 @@
-# C omprimir Imagenes con Gulpjs
+# Comprimir Imagenes con Gulpjs
 
 Aplicación para comprimir imágenes utilizando Gulp.js
 
