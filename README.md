@@ -8,7 +8,7 @@ Aplicación para comprimir imágenes utilizando Gulp.js
 npm install
 ```
 
-Una vez terminado la instalación de todos los paquetes necesarios, para comprimir tus imágenes coloca todos tus archivos con extensión *\*.{png,jpg,jpeg,gif,svg}* en el interior de la carpeta **images** y ejecuta el comando .
+<p>Una vez terminado la instalación de todos los paquetes necesarios, para comprimir tus imágenes coloca todos tus archivos con extensión *.{png,jpg,jpeg,gif,svg} en el interior de la carpeta **images** y ejecuta el comando.</p>
 
 ```
 gulp
