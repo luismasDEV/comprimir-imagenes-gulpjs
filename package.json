@@ -1,0 +1,18 @@
+{
+  "name": "comprimir-imagenes",
+  "version": "1.0.0",
+  "description": "Comprimir Imágenes y Fotografiás Utilizando la Herramienta Gulp.js",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Luis Rene Mas Mas",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-imagemin": "^3.1.1",
+    "gulp-notify": "^2.2.0",
+    "gulp-watch": "^4.3.11",
+    "imagemin-pngcrush": "^5.0.0"
+  }
+}
